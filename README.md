@@ -5,11 +5,10 @@
 
 ## 🚀 About Me
 
-* 🔭 I'm currently working on **a drag-and-drop task management app using React and DnD-Kit**
+* 🔭 I'm currently working on **a LLM AI Agents, Odoo projects, Python projects**
 * 🌱 I'm currently learning **Odoo development and refining my Docker skills**
-* 👯 I'm looking to collaborate on **Open Source Projects**, especially those involving **React, FastAPI, or Odoo**
 * 💬 Ask me about **JavaScript, Python, React, Node.js, Docker, and Odoo**
-* 📫 How to reach me: **[markh.devph@gmail.com](mailto:markanthonyhipe@gmail.com)**
+* 📫 How to reach me: **[markanthonyhipe@gmail.com](mailto:markanthonyhipe@gmail.com)**
 * ⚡ Fun fact: **I transitioned from a liaison/office role to full-stack development, proving it's never too late to follow your passion!**
 
 ---
