@@ -1,22 +1,27 @@
-# Hi there! 👋 I'm [Your Name]
+
+# Hi there! 👋 I'm Mark
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer;Mobile+App+UI+Designer+%26+Developer;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+* 🔭 I'm currently working on **a drag-and-drop task management app using React and DnD-Kit**
+* 🌱 I'm currently learning **Odoo development and refining my Docker skills**
+* 👯 I'm looking to collaborate on **Open Source Projects**, especially those involving **React, FastAPI, or Odoo**
+* 💬 Ask me about **JavaScript, Python, React, Node.js, Docker, and Odoo**
+* 📫 How to reach me: **[markh.devph@gmail.com](mailto:markanthonyhipe@gmail.com)**
+* ⚡ Fun fact: **I transitioned from a liaison/office role to full-stack development, proving it's never too late to follow your passion!**
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,sass,tailwind,vue,angular,express,mongodb,mysql,postgresql,redis,docker,kubernetes,aws,git,github,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,sass,tailwind,mysql,postgresql,mongodb,redis,docker,kubernetes,git,github,vscode,figma,odoo,ollama,llm&perline=8" alt="Tech Stack Icons" />
 </div>
 
 ## 📊 GitHub Stats
