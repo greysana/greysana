@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,sass,tailwind,mysql,postgresql,mongodb,redis,docker,kubernetes,git,github,vscode,figma,odoo,ollama,llm&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,sass,tailwind,mysql,postgresql,mongodb,redis,docker,git,github,vscode,figma,odoo,ollama,llm&perline=8" alt="Tech Stack Icons" />
 </div>
 
 ## 📊 GitHub Stats
