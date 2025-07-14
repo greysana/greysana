@@ -1,11 +1,7 @@
 
 # Hi there! 👋 I'm Mark
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer;Mobile+App+UI+Designer+%26+Developer;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
-</div>
 
----
 
 ## 🚀 About Me
 
